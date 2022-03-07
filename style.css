@@ -1,0 +1,9 @@
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+.photo img {
+  margin-left: 200px;
+  max-width: 950px;
+}
